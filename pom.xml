@@ -4,7 +4,7 @@
 	<groupId>org.rage.loan</groupId>
 	<artifactId>loan-model</artifactId>
 	<version>1.0.0</version>
-	<name>loan-rage</name>
+	<name>Loan and Sales Services</name>
 
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>jar</packaging>
@@ -15,4 +15,8 @@
 
 	<url>http://loan.rageco.info</url>
 
+	<organization>
+		<name>Rage</name>
+		<url>http://rageco.info</url>
+	</organization>
 </project>
