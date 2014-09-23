@@ -1,4 +1,4 @@
-package org.rage.loadsales.model;
+package org.rage.loan.model;
 
 import java.io.Serializable;
 import java.util.Date;

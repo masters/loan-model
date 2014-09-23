@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.rage.loadsales.model.interfaces;
+package org.rage.loan.model.interfaces;
 
 
 /**

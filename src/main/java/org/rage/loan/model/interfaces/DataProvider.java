@@ -1,9 +1,9 @@
-package org.rage.loadsales.model.interfaces;
+package org.rage.loan.model.interfaces;
 
 import java.util.List;
 
-import org.rage.loadsales.model.ServiceResponse;
 import org.rage.loan.exception.RageDataException;
+import org.rage.loan.model.ServiceResponse;
 
 public interface DataProvider<T> {
 

@@ -1,9 +1,9 @@
-package org.rage.loadsales.model;
+package org.rage.loan.model;
 
 import java.io.Serializable;
 import java.util.Date;
 
-public class LoanSales implements Serializable {
+public class Loan implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	private String id;
