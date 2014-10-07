@@ -8,6 +8,7 @@
 	
 	<groupId>org.rage.loan</groupId>
 	<artifactId>loan-model</artifactId>
+	<version>1.0.0</version>
 
 	<name>Loan and Sales Services</name>
 
