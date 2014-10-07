@@ -7,10 +7,17 @@
 	</parent>
 
 	<artifactId>loan-model</artifactId>
-	
+
 	<name>Loan and Sales Services</name>
 
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>jar</packaging>
 
+	<repositories>
+		<repository>
+			<id>releases</id>
+			<name>Releases S3 Rage</name>
+			<url>https://s3.amazonaws.com/m2-repo/release/</url>
+		</repository>
+	</repositories>
 </project>
