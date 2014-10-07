@@ -15,9 +15,15 @@
 
 	<repositories>
 		<repository>
-			<id>releases</id>
+			<id>releases-rage-s3</id>
 			<name>Releases S3 Rage</name>
 			<url>https://s3.amazonaws.com/m2-repo/release/</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
 		</repository>
 	</repositories>
 </project>
